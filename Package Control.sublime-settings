@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"ColorPicker",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"GitDiffHelper",
+		"Glue",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"Tag",
+	]
+}
