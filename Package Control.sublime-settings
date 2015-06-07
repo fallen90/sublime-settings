@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AngularJS",
@@ -11,7 +14,23 @@
 		"GitDiffHelper",
 		"Glue",
 		"HTML-CSS-JS Prettify",
+		"JSHint Gutter",
 		"Package Control",
 		"Tag",
+		"AutoFileName",
+        "BracketHighlighter",
+        "ExportHtml",
+        "GenerateUUID",
+        "HexViewer",
+        "Neon Color Scheme",
+        "PackageResourceViewer",
+        "PlistJsonConverter",
+        "Python Flake8 Lint",
+        "Python Improved",
+        "SideBarEnhancements",
+        "SideBarGit",
+        "SublimeCodeIntel",
+        "SublimeREPL",
+        "Theme - Soda"
 	]
 }
